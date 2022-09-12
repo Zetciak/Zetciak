@@ -13,7 +13,7 @@
   <b>Mail</b>: del -->
  <a href= 'https://discord.com/users/824413575577469018'><img src='https://lanyard-profile-readme.vercel.app/api/824413575577469018' /></a>
 </p>
-<img align='right' src='https://komarev.com/ghpvc/?username=Eithoo&color=2f3136'>
+<img align='right' src='https://komarev.com/ghpvc/?username=Zetciak&color=2f3136'>
 
 <!--
 **Eithoo/Eithoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
