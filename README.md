@@ -11,7 +11,7 @@
   <b>Discord</b>: Eitho#9637 <br /> -->
   <!--<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F?v=v2" width="32" /> 
   <b>Mail</b>: del -->
- <a href= 'https://discord.com/users/824413575577469018'><img src='https://lanyard-profile-readme.vercel.app/api/824413575577469018?bg=0d1117ff' /></a>
+ <a href= 'https://discord.com/users/824413575577469018'><img src='https://lanyard-profile-readme.vercel.app/api/824413575577469018' /></a>
 </p>
 <img align='right' src='https://komarev.com/ghpvc/?username=Eithoo&color=2f3136'>
 
