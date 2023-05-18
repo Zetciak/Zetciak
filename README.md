@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/zhQdE2n.png' />
+<img src='https://i.imgur.com/vAd6Au8.png' /><br/>
 
 <h1 align="center">Hi 👋, my name is Marcel</h1>
 
