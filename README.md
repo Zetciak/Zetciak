@@ -1,8 +1,8 @@
-<img src='https://i.imgur.com/vAd6Au8.png' /><br/>
+<img src='https://i.imgur.com/vAd6Au8.png' />
 
-<h1 align="center" style="margin-bottom: 20px; background: red;">Hi 👋, my name is Marcel</h1>
+<h1 align="center">Hi 👋, my name is Marcel</h1>
 
-## I feel comfortable wtih
+# I feel comfortable wtih
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,lua)](https://skillicons.dev)
 
 ## Programs
