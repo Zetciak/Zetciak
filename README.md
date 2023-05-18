@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, my name is Marcel</h1>
 
-# I feel comfortable wtih
+## I feel comfortable wtih
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,lua)](https://skillicons.dev)
 
 ## Programs
