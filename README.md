@@ -9,4 +9,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,github)](https://skillicons.dev)
 
 ## Discord
-<a href= 'https://discord.com/users/824413575577469018'><img src='https://lanyard-profile-readme.vercel.app/api/824413575577469018' /></a>
+<a href= 'https://discord.com/users/824413575577469018' align="center"><img src='https://lanyard-profile-readme.vercel.app/api/824413575577469018' /></a>
